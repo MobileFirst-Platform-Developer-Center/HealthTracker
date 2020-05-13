@@ -27,7 +27,7 @@ class Login extends React.Component {
   }
   onLoginsuccess = val => {
     // uncomment this code and setup navigation -- create home page later.
-    this.props.navigation.navigate('HealthHome', {});
+    this.props.navigation.navigate('Healthhome', {});
     // this.refs.defaultToastBottom.ShowToastFunction(
     //   `Hello, ${val.user.displayName}`
     // );
