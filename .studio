@@ -1,0 +1,20 @@
+{
+  "server": {
+    "mfpUrl": "http://127.0.0.1:9080",
+    "serverName": "MobileFoundation",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "reactnative",
+  "platforms": [
+    "android"
+  ],
+  "isAppAuth": false,
+  "isEncrypt": false,
+  "projectIcon": "/Users/sangeet/Desktop/DAB_apps/ReactNative/HealthTracker/reactnative/HealthTracker/resources/icon.png",
+  "projectName": "HealthTracker",
+  "projectVersion": "1.0.0",
+  "projectBundleId": "com.healthtracker",
+  "isAnalyticsEnabled": true,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code"
+}
