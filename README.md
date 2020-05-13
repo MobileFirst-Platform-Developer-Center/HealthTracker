@@ -9,7 +9,7 @@
 www.youtube.com
 
 # Screenshots
-![App Screenshots](screenshots/screenshot.png)
+![App Screenshots](https://raw.github.ibm.com/smanghna/HealthTracker/master/screenshots/screenshots.png?token=AAAN2C5QONFIAQP7K4HB7NS6YT6OW)
 
 # Heplful Links
 
