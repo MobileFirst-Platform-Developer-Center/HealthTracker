@@ -97,7 +97,7 @@ class Healthbot extends React.Component {
         <View style={styles.parent}>
           <StatusBar backgroundColor="#303740" />
           <View style={styles.chatHead}>
-            <Text style={styles.chatHeadText}>BankBot</Text>
+            <Text style={styles.chatHeadText}>Health Bot</Text>
           </View>
           <View style={styles.chatContainer}>
             <ScrollView style={styles.msgContainer}>

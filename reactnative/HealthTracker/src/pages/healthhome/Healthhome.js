@@ -20,25 +20,25 @@ class Healthhome extends React.Component {
         title: 'Plan',
         desc: 'Plan your meals here',
         navigatePage: 'Home',
-        icon: require('../../../assets/images/payslips.jpeg')
+        icon: require('../../../assets/images/plan.jpeg')
       },
       {
         title: 'Count Calories',
         desc: 'Scan your food and get caloric info',
         navigatePage: 'Calscanner',
-        icon: require('../../../assets/images/compensation.jpeg')
+        icon: require('../../../assets/images/calories.jpeg')
       },
       {
         title: 'HealthBot',
         desc: 'Talk to a health bot',
         navigatePage: 'Healthbot',
-        icon: require('../../../assets/images/benefits.jpeg')
+        icon: require('../../../assets/images/healthbot.jpeg')
       },
       {
         title: 'Suggested Meals',
         desc: 'List of amazing healthy food options for you',
         navigatePage: 'Meals',
-        icon: require('../../../assets/images/docs.jpeg')
+        icon: require('../../../assets/images/meals.jpeg')
       }
     ];
   }

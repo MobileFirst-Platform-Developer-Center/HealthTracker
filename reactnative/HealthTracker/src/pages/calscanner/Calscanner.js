@@ -236,7 +236,7 @@ class Calscanner extends React.Component {
         <View style={styles.parent}>
           <StatusBar backgroundColor="#353535" />
           <View style={styles.textContainer}>
-            <Text style={styles.pageHeading}>Simplistic VR</Text>
+            <Text style={styles.pageHeading}>Calorie Scanner</Text>
             <View style={styles.topContentContainer}>
               <View style={styles.imageContainer}>
                 {this.state.imageSelected.length > 0 ? (
