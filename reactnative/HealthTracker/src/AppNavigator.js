@@ -18,7 +18,7 @@ const Tabs = createBottomTabNavigator();
 
 const AppNavigator = () => (
   <NavigationContainer>
-    <Stack.Navigator initialRouteName="HealthIntro" headerMode="none">
+    <Stack.Navigator initialRouteName="Healthhome" headerMode="none">
       <Stack.Screen name="Home" component={Home} />
       <Stack.Screen name="HealthIntro" component={HealthIntro} />
       <Stack.Screen name="Login" component={Login} />
